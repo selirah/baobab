@@ -1,0 +1,14 @@
+@layer base {
+  html {
+    @apply bg-light-background;
+  }
+  html.dark {
+    @apply bg-dark-background;
+  }
+}
+
+@layer components {
+  .common-transition {
+    @apply transition-all ease-in-out duration-300 delay-100;
+  }
+}
