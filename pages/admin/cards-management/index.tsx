@@ -1,13 +1,13 @@
 import { AdminLayout } from 'layouts'
 
-const DashboardPage = () => {
+const CardsManagementPage = () => {
   return (
-    <AdminLayout pageTitle="Dashboard">
+    <AdminLayout pageTitle="Cards Management">
       <div className="block bg-light-container dark:bg-dark-container shadow-penumbra rounded">
-        This is the general application dashboard
+        This is the cards management page
       </div>
     </AdminLayout>
   )
 }
 
-export default DashboardPage
+export default CardsManagementPage
