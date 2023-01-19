@@ -114,7 +114,7 @@ export const AdminLayout: React.FC<Props> = (props) => {
   return (
     <div className="flex relative w-full animate__animated animate__fadeIn">
       <Head>
-        <title>{`${pageTitle} | Branch Service Hub`}</title>
+        <title>{`${pageTitle} | Baobab`}</title>
       </Head>
       <Sidebar routes={Routes} activeRoute={'/' + activeRoute} />
       <div

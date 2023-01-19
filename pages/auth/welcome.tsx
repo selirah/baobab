@@ -14,7 +14,7 @@ const WelcomePage = () => {
       <div className="md:mt-32">
         <h5 className="text-h6 md:text-h5 text-dark-btnText dark:text-light-btnText font-lato font-medium animate__animated animate__fadeInDown">
           {formatMessage({
-            defaultMessage: 'Welcome to Branch Service Hub'
+            defaultMessage: 'Welcome to Baobab'
           })}
         </h5>
         <p className="text-pNormal md:text-pLarge mt-[16px] mb-[64px] text-light-text dark:text-dark-text font-montserrat font-light animate__animated animate__fadeInUp">

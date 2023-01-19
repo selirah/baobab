@@ -46,7 +46,7 @@ export const Sidebar: FC<Props> = (props) => {
             }
           )}
         >
-          EquityBCDC
+          Baobab
         </h6>
       </div>
 

@@ -36,7 +36,7 @@ export const AuthLayout: React.FC<Props> = (props) => {
     <div className="md:h-screen bg-light-container dark:bg-dark-background animate__animated animate__fadeIn">
       <Head>
         <title>
-          {formatMessage({ defaultMessage: 'Welcome to Branch Service Hub', description: 'Title' })}
+          {formatMessage({ defaultMessage: 'Welcome to Baobab', description: 'Title' })}
         </title>
       </Head>
       <AuthNav />
